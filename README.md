@@ -6,6 +6,7 @@ The Azure Cosmos DB Data Migration Tool is an open source solution to import dat
 * SQL Server
 * CSV files
 * RavenDB
+* DynamoDB
 * Amazon DynamoDB
 * HBase
 * Azure Cosmos DB SQL API (DocumentDB)
