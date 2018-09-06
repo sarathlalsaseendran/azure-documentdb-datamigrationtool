@@ -9,7 +9,7 @@ namespace Microsoft.DataTransfer.DocumentDb.Shared
     public interface IDocumentDbAdapterConfiguration
     {
         /// <summary>
-        /// Gets the connection string for the DocumentDB account.
+        /// Gets the connection string for the Cosmos DB account.
         /// </summary>
         [Display(ResourceType = typeof(ConfigurationResources), Description = "ConnectionString")]
         string ConnectionString { get; }

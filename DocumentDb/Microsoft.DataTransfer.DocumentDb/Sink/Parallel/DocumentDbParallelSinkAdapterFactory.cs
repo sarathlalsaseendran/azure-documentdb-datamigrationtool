@@ -3,7 +3,7 @@
 namespace Microsoft.DataTransfer.DocumentDb.Sink.Parallel
 {
     /// <summary>
-    /// Provides data sink adapters capable of writing data to DocumentDB account in parallel.
+    /// Provides data sink adapters capable of writing data to Cosmos DB account in parallel.
     /// </summary>
     public sealed class DocumentDbParallelSinkAdapterFactory : DataSinkAdapterFactoryWrapper<IDocumentDbParallelSinkAdapterConfiguration>
     {

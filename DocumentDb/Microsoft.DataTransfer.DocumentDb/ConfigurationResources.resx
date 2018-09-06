@@ -133,7 +133,7 @@
     <value>Optional, default is {0}. Name of the file containing bulk insert stored procedure</value>
   </data>
   <data name="ConnectionModeFormat" xml:space="preserve">
-    <value>Optional, default is {0}. Specifies how to connect to DocumentDB account: {1}</value>
+    <value>Optional, default is {0}. Specifies how to connect to Cosmos DB account: {1}</value>
   </data>
   <data name="ConnectionString" xml:space="preserve">
     <value>Connection string (example: "AccountEndpoint=xyz;AccountKey=xyz;Database=xyz")</value>

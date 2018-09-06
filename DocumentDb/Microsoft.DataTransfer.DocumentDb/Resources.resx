@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccountEndpointMissing" xml:space="preserve">
-    <value>DocumentDB account end-point URL should be provided as part of the connection string</value>
+    <value>Cosmos DB account end-point URL should be provided as part of the connection string</value>
   </data>
   <data name="AccountKeyMissing" xml:space="preserve">
-    <value>DocumentDB account key should be provided as part of the connection string</value>
+    <value>Cosmos DB account key should be provided as part of the connection string</value>
   </data>
   <data name="AmbiguousQuery" xml:space="preserve">
     <value>Both Query and QueryFile cannot be set at the same time</value>
@@ -136,7 +136,7 @@
     <value>Documents collection name is required</value>
   </data>
   <data name="ConnectionStringMissing" xml:space="preserve">
-    <value>DocumentDB connection string is required</value>
+    <value>Cosmos DB connection string is required</value>
   </data>
   <data name="CustomUserAgentSuffixFormat" xml:space="preserve">
     <value>{0}-{1}-{2}-{3}{4}</value>

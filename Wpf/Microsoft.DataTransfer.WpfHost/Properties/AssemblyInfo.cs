@@ -5,9 +5,9 @@ using System.Windows;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Azure DocumentDB Data Migration Tool (GUI)")]
+[assembly: AssemblyTitle("Azure Cosmos DB Data Migration Tool (GUI)")]
 [assembly: AssemblyDescription("")]
-[assembly: AssemblyProduct("Azure DocumentDB Data Migration Tool (GUI)")]
+[assembly: AssemblyProduct("Azure Cosmos DB Data Migration Tool (GUI)")]
 [assembly: AssemblyCulture("")]
 
 //In order to begin building localizable applications, set 

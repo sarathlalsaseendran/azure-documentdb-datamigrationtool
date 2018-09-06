@@ -3,7 +3,7 @@
 namespace Microsoft.DataTransfer.DocumentDb.Sink.Bulk
 {
     /// <summary>
-    /// Provides data sink adapters capable of writing data to DocumentDB account in batches.
+    /// Provides data sink adapters capable of writing data to Cosmos DB account in batches.
     /// </summary>
     public sealed class DocumentDbBulkSinkAdapterFactory : DataSinkAdapterFactoryWrapper<IDocumentDbBulkSinkAdapterConfiguration>
     {

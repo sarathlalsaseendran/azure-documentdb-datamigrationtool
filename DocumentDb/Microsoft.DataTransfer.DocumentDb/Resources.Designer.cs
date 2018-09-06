@@ -19,7 +19,7 @@ namespace Microsoft.DataTransfer.DocumentDb {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
@@ -61,7 +61,7 @@ namespace Microsoft.DataTransfer.DocumentDb {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to DocumentDB account end-point URL should be provided as part of the connection string.
+        ///   Looks up a localized string similar to Cosmos DB account end-point URL should be provided as part of the connection string.
         /// </summary>
         internal static string AccountEndpointMissing {
             get {
@@ -70,7 +70,7 @@ namespace Microsoft.DataTransfer.DocumentDb {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to DocumentDB account key should be provided as part of the connection string.
+        ///   Looks up a localized string similar to Cosmos DB account key should be provided as part of the connection string.
         /// </summary>
         internal static string AccountKeyMissing {
             get {
@@ -124,7 +124,7 @@ namespace Microsoft.DataTransfer.DocumentDb {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to DocumentDB connection string is required.
+        ///   Looks up a localized string similar to Cosmos DB connection string is required.
         /// </summary>
         internal static string ConnectionStringMissing {
             get {
